@@ -42,3 +42,8 @@ gen('건강하게 살기 위한 세 가지 방법은?')
 ###
 ```
 
+# Reference
+
+https://huggingface.co/blog/falcon
+https://huggingface.co/EleutherAI/polyglot-ko-12.8b
+https://huggingface.co/datasets/beomi/KoAlpaca-v1.1a
