@@ -1,5 +1,13 @@
 # KoAlpaca-PEFT
-KoAlapaca + PEFT
+
+KoAlapaca + [EleutherAI/polyglot-ko-12.8b](https://huggingface.co/EleutherAI/polyglot-ko-12.8b) + PEFT 
+
+# ENV
+
+```
+Ubuntu kubeflow
+A100 80G
+```
 
 # Inference
 
@@ -28,3 +36,4 @@ gen('건강하게 살기 위한 세 가지 방법은?')
 ### 답변: 첫째, 적당한 운동을 합시다. 둘째, 항상 긍정적인 마음을 갖는 것이 중요합니다. 셋째, 몸에 좋은 음식을 골고루 섭취하세요. 다만, 지방과 탄수화물은 피해야 합니다.
 ###
 ```
+
