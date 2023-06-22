@@ -9,6 +9,11 @@ Ubuntu kubeflow
 A100 80G
 ```
 
+# wandb
+
+![image](https://github.com/HaloKim/KoAlpaca-PEFT/assets/44603549/1afbd57b-32dc-438a-8346-189078c2673d)
+
+
 # Inference
 
 ```python
