@@ -1,0 +1,2 @@
+# KoAlpaca-PEFT
+KoAlapaca + PEFT
